@@ -12,6 +12,8 @@ django = "*"
 djangorestframework = "*"
 django-rest-knox = "*"
 django-filter = "*"
+psycopg2 = "*"
+djangorestframework-jwt = "*"
 
 [requires]
 python_version = "3.8"
